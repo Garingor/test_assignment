@@ -3,6 +3,6 @@
 # Автоматизация тестирования API. Часть 1
 
 # Автоматизация тестирования API. Часть 2
-перейти в папку проекта
-docker run --name tests_container -it tests_image
-docker build -t tests_image .
+1. перейти в папку проекта
+2. docker run --name tests_container -it tests_image
+3. docker build -t tests_image .
